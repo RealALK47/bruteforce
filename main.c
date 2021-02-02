@@ -3,7 +3,7 @@
 #include <string.h>
 #include <unistd.h>
 
-/* VICETRACKS: BRUTE FORCER        */
+/* BRUTE FORCER                    */
 /* advanced main thread bruteforce */
 
 void compute(int max_len, char *symbols)
